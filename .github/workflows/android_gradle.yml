@@ -2,7 +2,7 @@ name: Android Gradle Build and Test
 
 on:
   push:
-    branches: [ 'master', 'main', 'release/**' ]
+    branches: [ 'test' ]
   pull_request:
     branches: [ 'master' ]
 
